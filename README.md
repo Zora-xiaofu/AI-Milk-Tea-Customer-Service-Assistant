@@ -49,3 +49,4 @@ The workflow combines **LLM nodes, conditional routing, knowledge retrieval, Pyt
 这是一个用于展示 **AI应用产品设计与工作流编排** 的学习项目，不是已接入真实门店业务系统的商业客服产品。
 
 This is a portfolio demo of **AI application design and workflow orchestration**, not a production customer service system integrated with a real store.
+![Dify智能客服工作流](工作流.png)
